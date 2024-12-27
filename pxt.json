@@ -1,0 +1,13 @@
+{
+  "name": "Rel Compass",
+  "description": "Rozšírenie pre relatívny kompas pre micro:bit",
+  "version": "1.0.0",
+  "dependencies": {
+    "core": "*",
+    "microbit": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ]
+}
